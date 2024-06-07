@@ -1,0 +1,17 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files.
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore any other custom files or folders here
+# For example, node_modules if using Node.js
+node_modules/
+
+# Ignore other typical directories
+.DS_Store
+.idea/
+build/
+dist/

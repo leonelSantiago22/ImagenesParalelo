@@ -1,0 +1,60 @@
+--- Ejecución 1 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 2 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 3 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 4 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 5 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 6 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 7 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 8 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 9 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 10 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 11 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 12 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 13 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 14 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
+--- Ejecución 15 ---
+Error: module 'subprocess' has no attribute 'run'
+
+
